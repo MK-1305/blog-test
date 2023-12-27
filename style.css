@@ -4,6 +4,21 @@
     --font: "Train+One";
 }
 
+.header-box {
+    height: 10vh;
+    background: #fff;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
 p {
     font-family:var(--font);
+}
+
+.front-box img {
+    width: 100vw;
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
 }
